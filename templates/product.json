@@ -1,7 +1,17 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "breadcrumbs": {
       "type": "breadcrumbs",
+      "disabled": true,
       "settings": {
         "text_alignment": "start"
       }
@@ -169,7 +179,9 @@
             "show_image": true,
             "text": "<p>This clay mask deeply cleanses my pores and leaves my skin feeling smooth and refreshed. Perfect for weekly use.</p>",
             "author": "Jaroslava K.",
-            "bio": "Verified Buyer"
+            "bio": "Verified Buyer",
+            "product": "",
+            "icon": "none"
           }
         },
         "testimonial_D7Mq7i": {
@@ -178,7 +190,9 @@
             "show_image": true,
             "text": "<p>This moisturizer left my skin feeling incredibly soft and hydrated. No greasy residue. Perfect for daily use!</p>",
             "author": "Alexandra M.",
-            "bio": "Verified Buyer"
+            "bio": "Verified Buyer",
+            "product": "",
+            "icon": "none"
           }
         },
         "testimonial_33tAjm": {
@@ -187,7 +201,9 @@
             "show_image": true,
             "text": "<p>The serum noticeably reduced my fine lines after a few weeks. Lightweight and absorbs quickly. Highly recommend!</p>",
             "author": "Danielle S.",
-            "bio": "Verified Buyer"
+            "bio": "Verified Buyer",
+            "product": "",
+            "icon": "none"
           }
         },
         "testimonial_dDRMwy": {
@@ -196,7 +212,9 @@
             "show_image": true,
             "text": "<p>Great cleanser! It removes makeup effortlessly without drying out my skin. My face feels refreshed and clean.</p>",
             "author": "Elizabeth R.",
-            "bio": "Verified Buyer"
+            "bio": "Verified Buyer",
+            "product": "",
+            "icon": "none"
           }
         },
         "testimonial_RgfDDw": {
@@ -205,7 +223,9 @@
             "show_image": true,
             "text": "<p>Love this sunscreen! It's non-greasy and blends well with makeup. Offers great protection without causing breakouts.</p>",
             "author": "Kimberly J.",
-            "bio": "Verified Buyer"
+            "bio": "Verified Buyer",
+            "product": "",
+            "icon": "none"
           }
         },
         "testimonial_abi6JN": {
@@ -214,7 +234,9 @@
             "show_image": true,
             "text": "<p>This eye cream is a game-changer. Reduced puffiness and dark circles significantly. Gentle on sensitive skin.</p>",
             "author": "Victoria H.",
-            "bio": "Verified Buyer"
+            "bio": "Verified Buyer",
+            "product": "",
+            "icon": "none"
           }
         }
       },
@@ -237,6 +259,7 @@
         "text_size": "text-base",
         "card_color_scheme": "",
         "card_layout": "1",
+        "card_text_size": "text-base",
         "columns_desktop": 4,
         "column_gap": "medium",
         "enable_slider": true,
@@ -580,6 +603,7 @@
           "type": "text",
           "settings": {
             "text": "For all skin types",
+            "text_link": "",
             "text_size": "h1",
             "font_weight": "font-heading",
             "font_style": "normal",
@@ -600,6 +624,7 @@
           "type": "text",
           "settings": {
             "text": "Glow with confidence",
+            "text_link": "",
             "text_size": "h1",
             "font_weight": "font-heading",
             "font_style": "normal",
@@ -620,6 +645,7 @@
           "type": "text",
           "settings": {
             "text": "Beauty in simplicity.",
+            "text_link": "",
             "text_size": "h1",
             "font_weight": "font-heading",
             "font_style": "normal",
@@ -693,6 +719,7 @@
       ],
       "settings": {
         "color_scheme": "",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "video_ratio": "1/1",
         "description": "",
         "enable_video_autoplay": true,
