@@ -501,7 +501,7 @@
         "feature_item_LtCW7V": {
           "type": "feature_item",
           "settings": {
-            "color_scheme": "scheme-inverse",
+            "color_scheme": "scheme-1",
             "icon": "check",
             "icon_style": "btn--secondary",
             "text": "Feature"
@@ -510,7 +510,7 @@
         "feature_item_WrcVKj": {
           "type": "feature_item",
           "settings": {
-            "color_scheme": "scheme-inverse",
+            "color_scheme": "scheme-1",
             "icon": "check",
             "icon_style": "btn--secondary",
             "text": "Feature"
@@ -519,7 +519,7 @@
         "feature_item_3NVyCC": {
           "type": "feature_item",
           "settings": {
-            "color_scheme": "scheme-inverse",
+            "color_scheme": "scheme-1",
             "icon": "check",
             "icon_style": "btn--secondary",
             "text": "Feature"
