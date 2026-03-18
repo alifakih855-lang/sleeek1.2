@@ -17,40 +17,10 @@
         "text_niHbzP": {
           "type": "text",
           "settings": {
-            "text": "100% CLEAN, NON-IRRITATING",
+            "text": "Forårsudsalg – Op til 70 % rabat",
             "text_link": "",
             "text_size": "text-base",
-            "font_weight": "font-heading",
-            "font_style": "normal",
-            "letter_spacing": 0,
-            "text_opacity": 100,
-            "text_style": "normal",
-            "use_custom_color": false,
-            "custom_color": "#000000"
-          }
-        },
-        "text_t3BcT4": {
-          "type": "text",
-          "settings": {
-            "text": "NO ANIMAL TESTING",
-            "text_link": "",
-            "text_size": "text-base",
-            "font_weight": "font-heading",
-            "font_style": "normal",
-            "letter_spacing": 0,
-            "text_opacity": 100,
-            "text_style": "normal",
-            "use_custom_color": false,
-            "custom_color": "#000000"
-          }
-        },
-        "text_QCAxbn": {
-          "type": "text",
-          "settings": {
-            "text": "FREE SHIPPING ON ALL U.S. ORDERS $200+",
-            "text_link": "",
-            "text_size": "text-base",
-            "font_weight": "font-heading",
+            "font_weight": "font-body",
             "font_style": "normal",
             "letter_spacing": 0,
             "text_opacity": 100,
@@ -61,9 +31,7 @@
         }
       },
       "block_order": [
-        "text_niHbzP",
-        "text_t3BcT4",
-        "text_QCAxbn"
+        "text_niHbzP"
       ],
       "custom_css": [],
       "settings": {
