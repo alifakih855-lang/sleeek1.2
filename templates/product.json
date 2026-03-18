@@ -51,6 +51,17 @@
           "type": "price",
           "settings": {}
         },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_type": "color_swatch",
+            "button_style": "circle",
+            "button_size": 40,
+            "size_title": "Size",
+            "size_chart_from_page": ""
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -69,17 +80,6 @@
             "text_style": "body",
             "inventory_threshold": 10,
             "show_inventory_quantity": true
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_type": "color_swatch",
-            "button_style": "circle",
-            "button_size": 40,
-            "size_title": "Size",
-            "size_chart_from_page": ""
           }
         },
         "pickup_availability": {
@@ -144,10 +144,10 @@
         "title",
         "icon_with_text",
         "price",
+        "variant_picker",
         "buy_buttons",
         "description",
         "inventory",
-        "variant_picker",
         "pickup_availability",
         "complementary",
         "collapsible-row-1",
