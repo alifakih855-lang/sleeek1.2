@@ -264,6 +264,52 @@
         "custom_class": ""
       }
     },
+    "image_with_text_overlay_iC3FQM": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_4tDYd7": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Add a tagline"
+          }
+        },
+        "heading_LYRPPd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text overlay",
+            "heading_size": "hd1",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_wJj9LM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this text to share information about your brand with your customers. <br>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_4tDYd7",
+        "heading_LYRPPd",
+        "text_wJj9LM"
+      ],
+      "name": "t:sections.image-with-text-overlay.name",
+      "settings": {
+        "container": "full",
+        "desktop_height": "extra-medium",
+        "overlay_opacity": 20,
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "color_scheme": "",
+        "content_position": "middle-left",
+        "content_alignment": "left",
+        "mobile_height": "auto",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "custom_class": ""
+      }
+    },
     "rich_text_7rBwdd": {
       "type": "rich-text",
       "blocks": {
@@ -483,7 +529,7 @@
       "settings": {
         "color_scheme": "",
         "subheading": "",
-        "heading": "Feature list",
+        "heading": "",
         "heading_size": "h2",
         "heading_highlight_style": "none",
         "description": "",
@@ -528,6 +574,7 @@
     "breadcrumbs",
     "main",
     "testimonials_8JHr3L",
+    "image_with_text_overlay_iC3FQM",
     "rich_text_7rBwdd",
     "image_with_text_MgddA8",
     "collapsible_tabs_phAkEE",
