@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -24,6 +33,7 @@
             "block_width": 18,
             "heading": "Shop",
             "heading_size": "h4",
+            "menu": "footer",
             "open_default": false,
             "show_divider": false
           }
@@ -34,6 +44,7 @@
             "block_width": 18,
             "heading": "Customer care",
             "heading_size": "h4",
+            "menu": "footer",
             "open_default": false,
             "show_divider": false
           }
@@ -47,6 +58,7 @@
             "image_width": 150,
             "text": "<p>We only carry designs we believe in ethically and aesthetically – original, authentic pieces that are made to last.</p>",
             "button_label": "Learn more",
+            "button_link": "",
             "open_default": false,
             "show_divider": false
           }
@@ -62,13 +74,13 @@
         ".form-control {--color-border: var(--color-field);}"
       ],
       "settings": {
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-inverse",
         "enable_follow_on_shop": true,
         "show_social": true,
         "enable_country_selector": true,
         "enable_language_selector": false,
         "payment_enable": true,
-        "footer_bottom_menu": "footer-bottom",
+        "footer_bottom_menu": "",
         "show_section_divider": true,
         "divider_width": "full"
       }
