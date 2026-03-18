@@ -9,7 +9,9 @@
  */
 {
   "current": {
+    "logo": "shopify://shop_images/Black_and_Beige_Classic_Pearl_Fashion_Logo_1.png",
     "logo_width": 100,
+    "logo_mobile": "shopify://shop_images/Black_and_Beige_Classic_Pearl_Fashion_Logo_1.png",
     "logo_width_mobile": 80,
     "color_badge_sale": "#a42003",
     "color_badge_hot": "#000000",
@@ -108,7 +110,7 @@
     "color_schemes": {
       "scheme-1": {
         "settings": {
-          "primary_accent": "#d63a2f",
+          "primary_accent": "#703b8c",
           "border": "#ededed",
           "text": "#000000",
           "background": "#ffffff",
@@ -184,10 +186,10 @@
       },
       "scheme-inverse": {
         "settings": {
-          "primary_accent": "#d63a2f",
+          "primary_accent": "#703b8c",
           "border": "#ffffff",
           "text": "#ffffff",
-          "background": "#000000",
+          "background": "#703b8c",
           "secondary_background": "#000000",
           "button": "#ffffff",
           "button_label": "#000000",
@@ -198,7 +200,7 @@
           "button_label_hover": "#000000",
           "form_field": "#ffffff",
           "form_field_label": "#000000",
-          "product_price_sale": "#d63a2f"
+          "product_price_sale": "#703b8c"
         }
       },
       "scheme-6": {

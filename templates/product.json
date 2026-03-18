@@ -33,9 +33,31 @@
             "heading_size": "h2"
           }
         },
+        "icon_with_text": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "title_font": "body",
+            "title_size": "text-base",
+            "icon_1": "package",
+            "heading_1": "Orders over $50 ship free",
+            "icon_2": "currency-circle-dollar",
+            "heading_2": "30 day returns",
+            "icon_3": "star-four",
+            "heading_3": ""
+          }
+        },
         "price": {
           "type": "price",
           "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
         },
         "description": {
           "type": "description",
@@ -58,28 +80,6 @@
             "button_size": 40,
             "size_title": "Size",
             "size_chart_from_page": ""
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_quantity_selector": true,
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "icon_with_text": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "title_font": "body",
-            "title_size": "text-base",
-            "icon_1": "package",
-            "heading_1": "Orders over $50 ship free",
-            "icon_2": "currency-circle-dollar",
-            "heading_2": "30 day returns",
-            "icon_3": "star-four",
-            "heading_3": ""
           }
         },
         "pickup_availability": {
@@ -142,12 +142,12 @@
       "block_order": [
         "badges",
         "title",
+        "icon_with_text",
         "price",
+        "buy_buttons",
         "description",
         "inventory",
         "variant_picker",
-        "buy_buttons",
-        "icon_with_text",
         "pickup_availability",
         "complementary",
         "collapsible-row-1",
