@@ -19,14 +19,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "badges": {
-          "type": "badges",
-          "settings": {
-            "show_soldout_badge": true,
-            "show_sale_badge": true,
-            "sale_badge_type": "percentage"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -45,6 +37,14 @@
             "heading_2": "30 day returns",
             "icon_3": "star-four",
             "heading_3": ""
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {
+            "show_soldout_badge": true,
+            "show_sale_badge": true,
+            "sale_badge_type": "percentage"
           }
         },
         "price": {
@@ -133,9 +133,9 @@
         }
       },
       "block_order": [
-        "badges",
         "title",
         "icon_with_text",
+        "badges",
         "price",
         "variant_picker",
         "buy_buttons",
@@ -169,6 +169,7 @@
           "type": "testimonial",
           "settings": {
             "show_image": true,
+            "image": "shopify://shop_images/A_woman_in_her_late_50s_photographed_by_her_friend_312e097d93.png",
             "text": "<p>This clay mask deeply cleanses my pores and leaves my skin feeling smooth and refreshed. Perfect for weekly use.</p>",
             "author": "Jaroslava K.",
             "bio": "Verified Buyer",
